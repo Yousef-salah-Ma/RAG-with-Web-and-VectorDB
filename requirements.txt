@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+datasets
+peft
+sentence-transformers
+chromadb
+langchain-text-splitters
+tavily-python
+python-dotenv
